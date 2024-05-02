@@ -46,8 +46,10 @@ table {
   }
 
   hr {
-    background-color: aqua;
-    border-style: dotted;
-    height: 2px;
+    /* background-color: aqua; */
+    border-style: dotted none none;
+    /* height: 2px; */
     width: 30%;
+    border-color: grey;
+    border-width: 12px;
   }
