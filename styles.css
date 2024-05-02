@@ -53,3 +53,15 @@ table {
     border-color: grey;
     border-width: 12px;
   }
+
+  body {
+    background-color: powderblue;
+  }
+
+  h1 {
+    color: green;
+  }
+
+  h3 {
+    color: violet;
+  }
